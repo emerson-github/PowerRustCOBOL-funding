@@ -22,7 +22,6 @@ See the LICENSE file in the project root for full license information.
 </p>
 
 ---
-Português
 Por que contribuir?
 
 PowerRustCOBOL é uma ferramenta moderna, visual, produtiva e livre das amarras de plataformas proprietárias, criada para devolver ao desenvolvedor COBOL algo que se perdeu há décadas: liberdade.
@@ -37,7 +36,6 @@ Clique no botão Sponsor no topo da página e torne-se parte desta história.
 
 Vamos construir juntos o futuro do COBOL moderno.
 
-Español
 ¿Por qué contribuir?
 
 PowerRustCOBOL es una herramienta moderna, visual, productiva y libre de las ataduras de las plataformas propietarias, creada para devolver al desarrollador COBOL algo que se perdió hace décadas: libertad.
@@ -52,7 +50,6 @@ Haz clic en el botón Sponsor en la parte superior de la página y conviértete 
 
 Construyamos juntos el futuro del COBOL moderno.
 
-English
 Why contribute?
 
 PowerRustCOBOL is a modern, visual, productive tool free from the constraints of proprietary platforms, created to give COBOL developers back something they lost decades ago: freedom.
